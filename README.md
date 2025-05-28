@@ -3,6 +3,9 @@
 **InnerBalance** is a wellness platform focused on improving mental, physical, and emotional health. This repository contains the frontend part of the application built using **React** and **Vite**.
 
 ---
+## 🚀 Live Demo
+
+ [Demo](https://innerbalance45.netlify.app/)
 
 ## 🚀 Features
 
